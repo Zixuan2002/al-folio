@@ -1,8 +1,9 @@
 ---
 layout: about
-title: about
+title: Zixuan Zhou
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Master's student in Financial Mathematics @ Johns Hopkins University</a>. Interested in nonlinear optimization, data science, and computational finance.
+zzhou123@jh.edu 
 
 profile:
   align: right
